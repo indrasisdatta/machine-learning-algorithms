@@ -1,0 +1,1 @@
+conda create -p venv1 python=3.10 -y
